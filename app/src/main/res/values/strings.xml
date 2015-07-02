@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AddNumbers</string>
+
+    <string name="addnumber">Add Two Numbers</string>
+    <string name="button">Add Numbers</string>
+    <string name="action_settings">Settings</string>
+</resources>
